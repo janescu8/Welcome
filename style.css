@@ -1,0 +1,53 @@
+body{
+    margin: auto;
+}
+p,h1,a {
+    font-family: Verdana;
+}
+.container-navajowhite{
+    padding: 20px;
+    background-color: navajowhite;
+}
+
+.container-thistle{
+    padding: 20px;
+    background-color:thistle;
+}
+.headbar{
+    margin: auto;
+}
+.spacing{
+    letter-spacing: 3px;
+}
+
+.blueviolet{
+    color: blueviolet;
+}
+.navajowhite{
+    background-color: navajowhite;
+}
+.thistle{
+    background-color:thistle;
+    padding: 2px;
+}
+.thistle-title{
+    background-color:thistle;
+    padding: 5px;
+}
+.live{
+    border: 5px;
+    border-style: dotted;
+    border-color: pink;
+    margin: 30px;
+    max-width: 700px;
+    padding: 10px;
+    font-family: monospace;
+    font-style: normal;
+    font-size:large;
+    font-weight: bold;
+}
+a{
+    text-decoration: none;
+    font-weight: bold;
+    color: black;
+}
